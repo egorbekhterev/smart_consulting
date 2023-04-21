@@ -20,7 +20,7 @@
 ![](images/form.png)
 
 ## Ссылка на скачивание архива:
-<a href="https://drive.google.com/file/d/1Ki5ozNNsdqEc65jxAteLNuzv1nnvve3s/view?usp=share_link" target="blank">архив</a>
+<a href="https://drive.google.com/file/d/1Qj2ICe3oe0JWafevktXpA8RPcFyT3gW_/view?usp=share_link" target="blank">архив</a>
 
 ## Контакты для связи
 telegram: <a href="https://t.me/bekhterev_egor" target="blank">@bekhterev_egor</a>
